@@ -1,12 +1,13 @@
-# MAL (MyAnimeList) Dubs
-[![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/MAL-Dubs/MAL-Dubs?label=Version)](#mal-myanimelist-dubs) [![GitHub license](https://img.shields.io/github/license/mal-dubs/mal-dubs)](https://github.com/MAL-Dubs/MAL-Dubs/blob/main/LICENSE) [![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FMAL-Dubs%2FMAL-Dubs%2Fmain%2Fdata%2FdubInfo.json&query=%24.dubbed.length&logo=myanimelist&label=Dubs&color=2e51a2)](#mal-myanimelist-dubs) [![Install with Tampermonkey](https://img.shields.io/badge/Install%20with-Tampermonkey-00485b?logo=tampermonkey)](https://raw.githubusercontent.com/MAL-Dubs/MAL-Dubs/main/mal-dubs.user.js) [![Discord](https://img.shields.io/discord/850163973080743967?color=5865F2&logo=discord&logoColor=white&label=Anime%20Dub%20Hub)](https://discord.gg/wMfD2RM7Vt)
+# MAL (MyAnimeList) Doblajes Latinos
 
-MAL Dubs is a userscript which labels over 5600 English dubbed titles on [MyAnimeList.net](https://myanimelist.net/) and adds a **Dubbed** filter to search, seasonal, company and top anime pages.
+MAL Doblajes Latinos is a userscript which labels over 1000 Latin Spanish dubbed titles on [MyAnimeList.net](https://myanimelist.net/) and adds a **Dubbed** filter to search, seasonal, company and top anime pages.
 
-Whether you choose dubs so you can multitask while watching, rely on them for your accessibility needs, or simply enjoy the immersive experience of hearing a performance in the language you speak, navigating MyAnimeList to find English-dubbed anime can be a challenge. This userscript fixes that.
+Whether you choose dubs so you can multitask while watching, rely on them for your accessibility needs, or simply enjoy the immersive experience of hearing a performance in the language you speak, navigating MyAnimeList to find Latin Spanish-dubbed anime can be a challenge. This userscript fixes that.
 
-![Look for the "D"](https://raw.githubusercontent.com/MAL-Dubs/MAL-Dubs/main/images/labels.png)
-![Find just the dubs ☑](https://raw.githubusercontent.com/MAL-Dubs/MAL-Dubs/main/images/filter.png)
+This project is a copy of the English version aimed for Latin Spanish dubs: [MAL-Dubs](https://github.com/MAL-Dubs/MAL-Dubs)
+
+![Look for the "D"](https://raw.githubusercontent.com/Leviatarius/MAL-Doblajes-Latinos/main/images/labels.png)
+![Find just the dubs ☑](https://raw.githubusercontent.com/Leviatarius/MAL-Doblajes-Latinos/main/images/filter.png)
 
 ## Instructions
 
@@ -16,23 +17,14 @@ Available for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermon
 
 **Step 2: Install the script**
 
-[Click here to install](https://raw.githubusercontent.com/MAL-Dubs/MAL-Dubs/main/mal-dubs.user.js)
+[Click here to install](https://raw.githubusercontent.com/Leviatarius/MAL-Doblajes-Latinos/main/mal-dubs.user.js)
 
-## Support this Project
+## Support the Parent Project
 
-I personally add each title every time I see a new dub announcement. Your support helps to keep the dub list up to date. Please consider donating to help maintain this valuable resource!
+Quote from [MAL-Dubs](https://github.com/MAL-Dubs/MAL-Dubs)
+> I personally add each title every time I see a new dub announcement. Your support helps to keep the dub list up to date. Please consider donating to help maintain this valuable resource!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y21HXGO)
-
-## Join the Community
-
-If you love dubbed anime and want a place to chat about it:
-
-[![Anime Dub Club Discord Server](https://raw.githubusercontent.com/MAL-Dubs/MAL-Dubs/main/images/discord.svg)](https://discord.gg/wMfD2RM7Vt)
-
-## Related Projects
-
-- [AniList Dubs](https://github.com/hamzaharoon1314/AniList-Dubs/) - Dub labelling & filtering on AniList.net using MAL-Dubs data & AniList API
 
 ## Copyright & Licensing
 
