@@ -11,7 +11,7 @@
 // @updateURL    https://github.com/Leviatarius/MAL-Doblajes-Latinos/raw/main/mal-dubs.user.js
 // @match        https://myanimelist.net/*
 // @iconURL      https://raw.githubusercontent.com/Leviatarius/MAL-Doblajes-Latinos/main/images/icon.png
-// @resource     CSS https://raw.githubusercontent.com/Leviatarius/MAL-Doblajes-Latinos/MAL-Dubs/main/css/style.css
+// @resource     CSS https://raw.githubusercontent.com/Leviatarius/MAL-Doblajes-Latinos/main/css/style.css
 // @grant        GM_xmlhttpRequest
 // @grant        GM_addStyle
 // @grant        GM_getResourceText
