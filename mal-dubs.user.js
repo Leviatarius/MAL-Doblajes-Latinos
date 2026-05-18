@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         MAL (MyAnimeList) Doblajes-Latinos
-// @version      0.1
+// @version      0.2
 // @description  Labels Latin Spanish dubbed titles on MyAnimeList.net and adds dub only filtering
 // @namespace    https://github.com/Leviatarius
 // @copyright    © 2019-2025 MAL-Dubs; Icons and glyphs within this project are TM MAL-Dubs
