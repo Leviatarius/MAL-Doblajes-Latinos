@@ -1,6 +1,6 @@
 # MAL (MyAnimeList) Doblajes Latinos
 
-MAL Doblajes Latinos is a userscript which labels over 1000 Latin Spanish dubbed titles on [MyAnimeList.net](https://myanimelist.net/) and adds a **Dubbed** filter to search, seasonal, company and top anime pages.
+MAL Doblajes Latinos is a userscript which labels over 140 Latin Spanish dubbed titles on [MyAnimeList.net](https://myanimelist.net/) and adds a **Dubbed** filter to search, seasonal, company and top anime pages.
 
 Whether you choose dubs so you can multitask while watching, rely on them for your accessibility needs, or simply enjoy the immersive experience of hearing a performance in the language you speak, navigating MyAnimeList to find Latin Spanish-dubbed anime can be a challenge. This userscript fixes that.
 
